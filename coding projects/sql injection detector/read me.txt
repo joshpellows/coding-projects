@@ -1,0 +1,14 @@
+# SQL Injection Detection Tool
+
+This project is a simple tool to detect SQL injection vulnerabilities in web applications by sending crafted SQL queries to input fields and analyzing the responses.
+
+## Files
+
+- `sql_injection_detector.py`: The main script that scans a web application for SQL injection vulnerabilities.
+- `requirements.txt`: List of Python packages required to run the project.
+
+## Usage
+
+1. Install the required packages:
+   ```bash
+   pip install -r requirements.txt

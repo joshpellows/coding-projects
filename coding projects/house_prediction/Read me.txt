@@ -1,0 +1,14 @@
+# House Price Prediction
+
+This project uses a linear regression model to predict house prices based on various features such as the number of rooms, lot size, and year built.
+
+## Files
+
+- `house_price_prediction.py`: The main script that trains and evaluates the model.
+- `requirements.txt`: List of Python packages required to run the project.
+
+## Usage
+
+1. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
